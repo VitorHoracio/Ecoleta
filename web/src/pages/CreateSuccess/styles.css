@@ -1,0 +1,13 @@
+.fundo{
+    align-content: center;
+    background: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh);
+    flex-direction: column;
+}
+
+.title{
+    color: white;
+}
